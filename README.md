@@ -112,27 +112,13 @@ python -m streamlit run app.py
 
 ## 🖥️ Project Execution (Real-Time)
 
-### 🔹 Terminal-Based Detection (OpenCV)
-
-![Terminal View](assets/screenshots/terminal_view.png)
-
-* Real-time webcam-based detection
-* EAR value displayed on screen
-* Alert triggered when EAR drops below threshold
-* Visual warning: **DROWSINESS ALERT**
-* Audio alarm using pygame
-
----
-
-## 🖥️ Project Execution (Real-Time)
-
 ---
 
 ## 🔹 Terminal-Based Detection (OpenCV)
 
-![Terminal View](assets/screenshots/terminal_view.png)
+![Terminal View](assets/screenshots/terminal_view.jpg)
 
-![Alert View](assets/screenshots/alert_view.png)
+![Alert View](assets/screenshots/terminal_alert_view.jpg)
 
 * Real-time webcam-based detection
 * Eye Aspect Ratio (EAR) displayed live on screen
